@@ -1,0 +1,1 @@
+import{_ as o,b as n,o as c,c as _,a as t}from"./index.658c9db5.js";const a={};function d(r,s){const e=n("m-trend");return c(),_("div",null,[t(e,{text:"\u8425\u4E1A\u989D",upIcon:"CaretTop"}),t(e,{text:"\u9500\u552E\u989D",type:"down",downIcon:"CaretBottom"})])}const f=o(a,[["render",d],["__scopeId","data-v-fdc7c10f"]]);export{f as default};

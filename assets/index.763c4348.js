@@ -1,0 +1,1 @@
+import{d as i,r as l,o,c as n,a as t,u as r,i as u,m as f}from"./index.658c9db5.js";const d=i({__name:"index",setup(m){let e=l(!1);return(p,s)=>(o(),n("div",null,[t(f,{title:"\u9009\u62E9\u56FE\u6807",visible:r(e),"onUpdate:visible":s[0]||(s[0]=a=>u(e)?e.value=a:e=a)},null,8,["visible"])]))}});export{d as default};

@@ -1,0 +1,1 @@
+import{d as t,b as a,o as s,c as r,a as i}from"./index.658c9db5.js";const h=t({__name:"index",setup(_){const o=e=>{console.log("changeCity",e)},n=e=>{console.log("changeProvince",e)};return(e,l)=>{const c=a("m-choose-city");return s(),r("div",null,[i(c,{onChangeCity:o,onChangeProvince:n})])}}});export{h as default};
